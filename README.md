@@ -1,4 +1,4 @@
-# Genki Book Image to PDF Tools
+# Image to PDF Tools
 
 This project was created to make it easy to turn scanned pages or screenshot images into printable PDF files.
 It is especially useful when you have multiple ordered images and need a single combined PDF or when a single image contains two pages that must be split.
